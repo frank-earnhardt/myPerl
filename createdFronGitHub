@@ -1,1 +1,11 @@
 This file was created from github web site
+
+
+** Used folling to update local repo **
+M:\myGit\myPerl>git pull origin master
+From https://github.com/earnhardt3rd/myPerl
+ * branch            master     -> FETCH_HEAD
+Merge made by the 'recursive' strategy.
+ createdFronGitHub | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 createdFronGitHub
