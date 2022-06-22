@@ -1,0 +1,7 @@
+organization=earnhardt3rd
+projectKey=myPerl
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29819
+dashboardUrl=https://sonarcloud.io/dashboard?id=myPerl
+ceTaskId=AYGJT9a73RRljHRs1ULe
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYGJT9a73RRljHRs1ULe
